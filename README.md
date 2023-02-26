@@ -19,7 +19,10 @@ $ npm run start
 
 Após isso se conecte ao client e insira o nome do tópico "iotTestTopic" no campo tópico para se conectar a aplicação.
 
-Na collection websocket devices-api no Postman, conecte-se usando o botão Connect para poder receber informações da aplicação via websocket.
+Como não é possível exportar requests websocket no Postman ainda, será necessário criar uma request seguindo o caminho: File > New > Websocket Request
+Configurar a request seguindo a imagem abaixo
+
+![Image](https://i.ibb.co/4ptTLV1/Captura-de-tela-2023-02-26-070912.png)
 
 ## Uso
 
