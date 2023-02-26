@@ -1,0 +1,1 @@
+export * from './seed-work/entity.cqrs';
